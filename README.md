@@ -1,5 +1,7 @@
-# This is my frist repo.
+# Python Practice Codes
 Author: Anikate kanoo
 <br>
-Add: barrackpore
+This Repositories based on Python Practice Codes or small Projects using only Python language..
+<br>
+Thank you.
 
